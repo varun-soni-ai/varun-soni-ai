@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/varun-soni-ds-da/
 - 😄 Pronouns: He/Him
 - 📫 How to reach me **varunsoni982@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K6GZ8hs7FE86DIdIcYJ0f7V3O57EN63E/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IVi9cB3jHRUshkNHR3kZ3Pjdnpdo8fGC/view?usp=drive_link)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun-soni-ai" alt="varun-soni-ai" /></a> </p>
 <h3 align="left">Connect with me:</h3>
